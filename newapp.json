@@ -164,7 +164,7 @@
             "ico" : "https://i.ibb.co/T1ygfrv/SPIN.png",
             "bg" : "#ffffff"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "scratch",
             "ico" : "https://i.ibb.co/cvGfgPc/New-Project.png",
             "bg" : "#ffffff"
@@ -189,7 +189,7 @@
             "ico" : "https://i.ibb.co/Syy8Rp8/Untitled-design-unscreen.gif",
             "bg" : ""
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "games",
             "ico" : "https://i.ibb.co/jZ9NssB/game.png",
             "bg" : "#ffffff"
