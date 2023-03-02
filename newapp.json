@@ -43,30 +43,30 @@
         {
             "questions" :
             [
-        {"question": "What was the name of the first person to walk on the moon?"},
-        {"question": "What is the name of the longest-serving Mars rover, launched by NASA in 2003?"},
-        {"question": "What is the name of the first artificial satellite launched into space by the Soviet Union in 1957?"},
-        {"question": "What was the name of the first American woman in space?"},
-        {"question": "What is the name of the space telescope launched by NASA in 1990?"},
-        {"question": "What is the name of the first privately-funded spacecraft to reach orbit?"},
-        {"question": "What is the name of the first spacecraft to visit Pluto, launched by NASA in 2006?"},
-        {"question": "What is the name of the rocket that sent the first American into space in 1961?"},
-        {"question": "What is the name of the first space station launched into orbit by the Soviet Union in 1971?"},
-        {"question": "What is the name of the first space shuttle launched by NASA in 1981?"}
-      ],
-            "answers" :
-            [
-        {"answer": "Neil Armstrong"},
-        {"answer": "Opportunity"},
-        {"answer": "Sputnik 1"},
-        {"answer": "Sally Ride"},
-        {"answer": "Hubble Space Telescope"},
-        {"answer": "Dragon"},
-        {"answer": "New Horizons"},
-        {"answer": "Mercury-Redstone 3"},
-        {"answer": "Salyut 1"},
-        {"answer": "Columbia"}
-       ],
+{"question": "Who is the main character in Chainsaw Man?"},
+{"question": "What is Denji's power after fusing with Pochita?"},
+{"question": "What is the name of the government agency that Denji joins?"},
+{"question": "Who is the leader of the Public Safety Devil Hunters?"},
+{"question": "What does Makima promise Denji in exchange for killing the Gun Devil?"},
+{"question": "Who is Power in Chainsaw Man?"},
+{"question": "Who is Aki Hayakawa in Chainsaw Man?"},
+{"question": "Who trains Denji and Power in Chainsaw Man?"},
+{"question": "Who is Reze in Chainsaw Man?"},
+{"question": "What is the consequence of Denji's fight with the Bomb Woman?"}
+],
+"answers" :
+[
+{"answer": "Denji"},
+{"answer": "Denji can transform parts of his body into chainsaws."},
+{"answer": "The Public Safety Devil Hunters"},
+{"answer": "Makima"},
+{"answer": "Any favor he wants."},
+{"answer": "Power is the Blood Fiend and a Devil Hunter who is Denji's partner."},
+{"answer": "Aki Hayakawa is a self-destructive Devil Hunter who is also Denji's partner."},
+{"answer": "Kishibe, a master Devil-hunter who distrusts Makima, trains them."},
+{"answer": "Reze is a woman who Denji falls in love with, but who is revealed to be the Bomb Woman, a spy for the Soviet Union."},
+{"answer": "Denji's fight with the Bomb Woman reveals his existence to the world."}
+     ],
             "options" :
             [
         {"option": "Buzz Aldrin"},
@@ -290,47 +290,53 @@
         }
     ],
 
-    "wallpapers" : [
-{
-"name" : "",
-"img" : "https://i.ibb.co/JxkJ6cj/pexels-mikhail-nilov-7662949.jpg"
-},
-{
-"name" : "",
-"img" : "https://i.ibb.co/1bYt4sh/pexels-cottonbro-studio-7170721.jpg"
-},
-{
-"name" : "",
-"img" : "https://i.ibb.co/ZGWjpbv/pexels-cottonbro-studio-7169862.jpg"
-},
-{
-"name" : "",
-"img" : "https://i.ibb.co/tzWVjdY/pexels-cottonbro-studio-7169836.jpg"
-},
-{
-"name" : "",
-"img" : "https://i.ibb.co/25RPq0g/kxchcxh.jpg"
-},
-{
-"name" : "",
-"img" : "https://i.ibb.co/5hQSHnL/pexels-t-leish-5258150.jpg"
-},
-{
-"name" : "",
-"img" : "https://i.ibb.co/9pH406r/pexels-pixabay-41952.jpg"
-},
-{
-"name" : "",
-"img" : "https://i.ibb.co/89qZL6t/pexels-mikhail-nilov-7672278.jpg"
-},
-{
-"name" : "",
-"img" : "https://i.ibb.co/ScxJR88/pexels-mikhail-nilov-7661456.jpg"
-},
-{
-"name" : "",
-"img" : "https://i.ibb.co/tzjxsHN/pexels-t-leish-5258138.jpg"
-}
+   
+
+"wallpapers": [
+  {
+    "name": "",
+    "img": "https://i.ibb.co/kcL3r6x/0283.jpg"
+  },
+  {
+    "name": "",
+    "img": "https://i.ibb.co/8YKzcDJ/2397.jpg"
+  },
+  {
+    "name": "",
+    "img": "https://i.ibb.co/L02s3KH/7320.jpg"
+  },
+  {
+    "name": "",
+    "img": "https://i.ibb.co/GVZ0TLB/9237.jpg"
+  },
+  {
+    "name": "",
+    "img": "https://i.ibb.co/YDwfVfj/9273.jpg"
+  },
+  {
+    "name": "",
+    "img": "https://i.ibb.co/qs1NRhP/9723.jpg"
+  },
+  {
+    "name": "",
+    "img": "https://i.ibb.co/SxDFzs9/92737.jpg"
+  },
+  {
+    "name": "",
+    "img": "https://i.ibb.co/7J1K7vk/101.jpg"
+  },
+  {
+    "name": "",
+    "img": "https://i.ibb.co/nj25r4R/102.jpg"
+  },
+  {
+    "name": "",
+    "img": "https://i.ibb.co/HF44KbH/103.jpg"
+  },
+  {
+    "name": "",
+    "img": "https://i.ibb.co/djShc1Z/104.jpg"
+ }
 ],
     
     "data" : [
