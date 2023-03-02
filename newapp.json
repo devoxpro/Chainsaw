@@ -149,39 +149,39 @@
     ],
     "menu" : [
         {
-            "active" : "false",
+            "active" : "true",
             "name" : "Guide Tips",
-            "ico" : "https://i.ibb.co/GQYxJ6M/tips.gif",
+            "ico" : "https://i.ibb.co/YQfDkd5/TIPS.png",
             "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "puzzle",
-            "ico" : "https://i.ibb.co/vxxVY71/ezgif-1-bab27e02bf-unscreen.gif",
+            "ico" : "https://i.ibb.co/tJkZd9B/PUZZUL.png",
             "bg" : "#ffffff"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "spinner",
-            "ico" : "https://i.ibb.co/YkmZXT6/output-onlinegiftools.gif",
+            "ico" : "https://i.ibb.co/T1ygfrv/SPIN.png",
             "bg" : "#ffffff"
         },{
             "active" : "false",
             "name" : "scratch",
-            "ico" : "https://i.ibb.co/gVmGsn9/scractch.gif",
+            "ico" : "https://i.ibb.co/cvGfgPc/New-Project.png",
             "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "questions",
-            "ico" : "https://i.ibb.co/YWJctyj/Untitled-design-unscreen.gif",
+            "ico" : "https://i.ibb.co/x8fKKVH/New-Project.png",
             "bg" : "#ffffff"
         },{
-            "active" : "false",
+            "active" : "true",
             "name" : "quiz",
-            "ico" : "https://i.ibb.co/r33QywR/Untitled-design-unscreen.gif",
+            "ico" : "https://i.ibb.co/CbcSXPm/QUIZE.png",
             "bg" : "#ffffff"
         },{
             "active" : "true",
             "name" : "wallpapers",
-            "ico" : "https://i.ibb.co/0sSwcW1/waal-unscreen.gif",
+            "ico" : "https://i.ibb.co/S32stBT/WALL.png",
             "bg" : ""
         },{
             "active" : "false",
@@ -191,7 +191,7 @@
         },{
             "active" : "false",
             "name" : "games",
-            "ico" : "https://i.ibb.co/mJYnghj/Untitled-design-unscreen.gif",
+            "ico" : "https://i.ibb.co/jZ9NssB/game.png",
             "bg" : "#ffffff"
         }
     ],
