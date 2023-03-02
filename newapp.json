@@ -69,7 +69,7 @@
      ],
             "options" :
             [
-        {"option": "Buzz Aldrin"},
+           {"option": "Buzz Aldrin"},
         {"option": "Neil Armstrong"},
         {"option": "Alan Shepard"},
         {"option": "Yuri Gagarin"},
