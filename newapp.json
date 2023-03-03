@@ -149,7 +149,7 @@
     ],
     "menu" : [
         {
-            "active" : "true",
+            "active" : "false",
             "name" : "Guide Tips",
             "ico" : "https://i.ibb.co/YQfDkd5/TIPS.png",
             "bg" : "#ffffff"
@@ -159,12 +159,12 @@
             "ico" : "https://i.ibb.co/tJkZd9B/PUZZUL.png",
             "bg" : "#ffffff"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "spinner",
             "ico" : "https://i.ibb.co/T1ygfrv/SPIN.png",
             "bg" : "#ffffff"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "scratch",
             "ico" : "https://i.ibb.co/cvGfgPc/New-Project.png",
             "bg" : "#ffffff"
@@ -174,7 +174,7 @@
             "ico" : "https://i.ibb.co/x8fKKVH/New-Project.png",
             "bg" : "#ffffff"
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "quiz",
             "ico" : "https://i.ibb.co/CbcSXPm/QUIZE.png",
             "bg" : "#ffffff"
@@ -189,7 +189,7 @@
             "ico" : "https://i.ibb.co/Syy8Rp8/Untitled-design-unscreen.gif",
             "bg" : ""
         },{
-            "active" : "true",
+            "active" : "false",
             "name" : "games",
             "ico" : "https://i.ibb.co/jZ9NssB/game.png",
             "bg" : "#ffffff"
